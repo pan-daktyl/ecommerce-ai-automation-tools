@@ -1,8 +1,8 @@
-## Ecommerce Automation & Data Processing Tools
+# Ecommerce Automation & Data Processing Tools
 
 A collection of Python scripts designed to streamline Product Information Management (PIM), marketplace integrations, and technical data workflows.
 
-# Key Modules
+## Key Modules
 
 1. AI Product Description Generator
 A script for automated content creation for platforms like Allegro and Shoper. It processes raw technical specifications and transforms them into professional, SEO-friendly descriptions using LLMs (Large Language Models). This tool ensures consistency and high speed when onboarding large product catalogs.
@@ -13,7 +13,7 @@ A specialized parser using Regular Expressions (Regex) to extract technical spec
 4. ERP & Store Sync Simulator
 A simulator demonstrating data exchange between an ERP system (e.g., Subiekt Nexo Pro) and an ecommerce platform. It focuses on the logic of inventory and price synchronization via REST API patterns (JSON).
 
-# Technical Stack
+## Technical Stack
 - Python 3.x
 - Data Formats: JSON, CSV
 - API Integration (REST)
